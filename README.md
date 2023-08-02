@@ -24,5 +24,9 @@
 </div>
 
 ##
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React
+🔭 I’m currently working on Web Development
+✉️ Reach me at rudney.a.s@hotmail.com
+🚀 Freelancing
+📚 Focusing on React
+🤝 Open to collaborating on interesting and immersive projects
+🧠 Always open to learning and improving myself
